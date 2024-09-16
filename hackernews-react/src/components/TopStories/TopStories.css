@@ -1,0 +1,10 @@
+
+.story-list li {
+    margin-bottom: 15px;
+}
+
+.star {
+    color: red;
+    font-size: 1.2em;
+    margin: 0 5px; 
+}
